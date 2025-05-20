@@ -12,7 +12,6 @@ Program ini digunakan untuk melakukan **analisis regresi linear** dan **korelasi
 ## 🛠 Teknologi yang Digunakan
 
 - Python 3.x
-- `pandas` – untuk manipulasi data
 - `numpy` – untuk perhitungan numerik
 - `matplotlib` / `seaborn` – untuk visualisasi
 
